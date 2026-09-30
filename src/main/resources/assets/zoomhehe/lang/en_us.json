@@ -1,0 +1,55 @@
+{
+  "key.zoomhehe.zoom": "Zoom",
+
+  "zoomhehe.config.title": "ZoomHehe Settings",
+
+  "zoomhehe.config.category.general": "General",
+  "zoomhehe.config.category.animation": "Animation",
+  "zoomhehe.config.category.camera": "Camera",
+  "zoomhehe.config.category.misc": "Miscellaneous",
+
+  "zoomhehe.config.toggle_mode": "Toggle Mode",
+  "zoomhehe.config.toggle_mode.desc": "When enabled, pressing the zoom key toggles zoom on/off instead of holding.",
+
+  "zoomhehe.config.default_zoom": "Default Zoom Level",
+  "zoomhehe.config.default_zoom.desc": "The FOV multiplier applied when zooming. Lower values = more zoom.",
+
+  "zoomhehe.config.min_zoom": "Minimum Zoom FOV",
+  "zoomhehe.config.min_zoom.desc": "The minimum FOV (most zoomed in) reachable by scrolling.",
+
+  "zoomhehe.config.max_zoom": "Maximum Zoom FOV",
+  "zoomhehe.config.max_zoom.desc": "The maximum FOV (least zoomed in) reachable by scrolling.",
+
+  "zoomhehe.config.animation_speed": "Animation Speed",
+  "zoomhehe.config.animation_speed.desc": "How fast the zoom animation plays. Higher = faster.",
+
+  "zoomhehe.config.easing_type": "Easing Type",
+  "zoomhehe.config.easing_type.desc": "The interpolation curve used for zoom animations.",
+
+  "zoomhehe.config.mouse_sensitivity": "Mouse Sensitivity Multiplier",
+  "zoomhehe.config.mouse_sensitivity.desc": "Multiplier applied to mouse sensitivity while zoomed. 1.0 = no change.",
+
+  "zoomhehe.config.scroll_sensitivity": "Scroll Sensitivity",
+  "zoomhehe.config.scroll_sensitivity.desc": "How much each scroll tick adjusts the zoom FOV.",
+
+  "zoomhehe.config.cinematic_camera": "Cinematic Camera",
+  "zoomhehe.config.cinematic_camera.desc": "Enables smooth cinematic camera movement while zoomed.",
+
+  "zoomhehe.config.smooth_camera": "Smooth Camera",
+  "zoomhehe.config.smooth_camera.desc": "Enables vanilla smooth camera while zoomed.",
+
+  "zoomhehe.config.reset_on_release": "Reset Zoom on Release",
+  "zoomhehe.config.reset_on_release.desc": "Resets the zoom level to the default when zoom is released.",
+
+  "zoomhehe.config.spyglass_overlay": "Spyglass Overlay",
+  "zoomhehe.config.spyglass_overlay.desc": "Shows the spyglass scope overlay while zoomed.",
+
+  "zoomhehe.config.zoom_sound": "Zoom Sound",
+  "zoomhehe.config.zoom_sound.desc": "Plays a subtle sound when zooming in.",
+
+  "zoomhehe.easing.linear": "Linear",
+  "zoomhehe.easing.ease_in": "Ease In",
+  "zoomhehe.easing.ease_out": "Ease Out",
+  "zoomhehe.easing.ease_in_out": "Ease In Out",
+  "zoomhehe.easing.exponential": "Exponential"
+}

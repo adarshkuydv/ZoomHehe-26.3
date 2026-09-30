@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "zoomhehe",
+  "version": "${version}",
+  "name": "ZoomHehe",
+  "description": "A smooth, customizable zoom mod.",
+  "authors": [{ "name": "AdarshHehe" }],
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.adarshhehe.zoomhehe.ZoomHeheClient"],
+    "modmenu": ["com.adarshhehe.zoomhehe.config.ModMenuIntegration"]
+  },
+  "mixins": ["zoomhehe.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "yet_another_config_lib_v3": ">=3.9.7"
+  },
+  "suggests": { "modmenu": "*" }
+}
